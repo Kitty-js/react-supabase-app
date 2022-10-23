@@ -54,4 +54,4 @@ The sidebar can be extended and retracted (the accesses of the sidebar are not u
 
 ## Thanks and goodbye
 
-**Thanks for reading this brief description of the project, in the future I will add more things that I would like to add but due to lack of time I have not been able to, maybe I will try to replicate it with Python at some point. Greetings y bye bye. :heart:**
+**Thanks for reading this brief description of the project, in the future I will add more things that I would like to add but due to lack of time I have not been able to, maybe I will try to replicate it with Python at some point. Greetings & bye bye. :heart:**
